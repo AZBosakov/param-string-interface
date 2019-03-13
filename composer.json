@@ -1,0 +1,21 @@
+{
+    "name": "azbosakov/param-string-interface",
+    "description": "Common interface for manipulating the values of the placeholders in a template string",
+    "keywords": ["template", "templating"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Aleksandar Zdravkov Bosakov",
+            "email": "aleksandar.z.bosakov@gmail.com"
+        }
+    ],
+    "version": "1.0.0",
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "AZBosakov\\ParamString\\": "src/"
+        }
+    },
+    "require": {}
+}
